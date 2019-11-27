@@ -1,0 +1,11 @@
+#   Nexmo Api
+Nexmo:
+  api_key: b01ac53a
+  secret_key: bkvjh3JXwji3N5Mh
+  brand_name: NEXMO
+
+#   Twilio Api
+Twilio:
+  account_sid: ACa0e08330f4ba0a61a0ca081c781b4f21
+  auth_token: 17a3750e966ba16f92de9fb8b9df5e9a
+  trail_number: +12028664292
